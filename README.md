@@ -49,7 +49,7 @@ These challenges are to be completed <b>in order</b>. Each one builds off of eac
 ## Demo
 ![](demo.gif)
 ## Easy-1 UI
-![](MainVC.png)
+![](One-Player.png)
 
 ## Hard-1 UI
-![](TwoPlayer.png)
+![](Two-Player.png)
