@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     let rpsChoices = ["✊", "🖐", "✌️"]
-    var randomNumber = 0
+    var randomNumber1 = 0
 
     override func viewDidLoad() {
         super.viewDidLoad()

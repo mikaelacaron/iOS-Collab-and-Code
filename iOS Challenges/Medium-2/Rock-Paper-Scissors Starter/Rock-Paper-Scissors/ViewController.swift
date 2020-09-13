@@ -11,9 +11,9 @@ import UIKit
 class ViewController: UIViewController {
     
     let rpsChoices = ["✊", "🖐", "✌️"]
-    var randomNumber = 0
+    var randomNumber1 = 0
     
-    @IBOutlet var choiceLabel: UILabel!
+    @IBOutlet var player1: UILabel!
     
 
     override func viewDidLoad() {
@@ -23,7 +23,7 @@ class ViewController: UIViewController {
 
     @IBAction func playButtonTapped(_ sender: Any) {
         
-        randomNumber = Int.random(in: 0...2)
+        randomNumber1 = Int.random(in: 0...2)
         
     }
     

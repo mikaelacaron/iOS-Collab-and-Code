@@ -60,7 +60,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="choiceLabel" destination="kYX-i2-3BI" id="0IL-j2-GAV"/>
+                        <outlet property="player1" destination="kYX-i2-3BI" id="ZeK-yZ-oGo"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
