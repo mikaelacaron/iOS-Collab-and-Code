@@ -34,13 +34,13 @@ All starter/solution files can be [found here](https://github.com/mikaelacaron/i
 These challenges are to be completed <b>in order</b>. Each one builds off of each other.
 ## Easy
 1. Create the UI shown below. The top is a label, the middle is a label, and the bottom is a button.
-2. Create an array, called rpsChoices, with 3 strings in it. The elements of the array are the 3 emojis, rock, paper, and scissors. Create a variable called randomNumber1 and set it equal to 0.
-3. Create an IBOutlet for the middle label, called player1. Create an IBAction for the touch up inside event of the play button, called playButtonTapped.
+2. Create an array, called <span style="font-family: Courier New">rpsChoices</span>, with 3 strings in it. The elements of the array are the 3 emojis, rock, paper, and scissors. Create a variable called <span style="font-family: Courier New">randomNumber1</span> and set it equal to 0.
+3. Create an IBOutlet for the middle label, called <span style="font-family: Courier New">player1</span>. Create an IBAction for the touch up inside event of the play button, called <span style="font-family: Courier New">playButtonTapped</span>.
 ## Medium
-1. In the playButtonTapped function set the variable randomNumber1, equal to random number between 0 to 2.
-2. Use randomNumber1 to access that element in the array, and set the text of the player1 equal to the element in the array.
+1. In the playButtonTapped function set the variable <span style="font-family: Courier New">randomNumber1</span>, equal to random number between 0 to 2.
+2. Use <span style="font-family: Courier New">randomNumber1</span> to access that element in the array, and set the text of the <span style="font-family: Courier New">player1</span> equal to the element in the array.
 ## Hard
 1. Add a second player, following the second UI design below.
 2. Add the same functionality as step (Easy-3, Medium-1 and Medium-2) for the second player
-3. Add to each score label, depending on which player won
+3. Create a function to choose the winner, and add to each score label, depending on which player won
 4. BONUS! Use a UIAlertController to indicate which player won, when the score reaches 5, and then reset the game.
