@@ -44,3 +44,12 @@ These challenges are to be completed <b>in order</b>. Each one builds off of eac
 2. Add the same functionality as step (Easy-3, Medium-1 and Medium-2) for the second player
 3. Create a function to choose the winner, and add to each score label, depending on which player won
 4. BONUS! Use a UIAlertController to indicate which player won, when the score reaches 5, and then reset the game.
+
+# Pictures
+## Demo
+![](demo.gif)
+## Easy-1 UI
+![](MainVC.png)
+
+## Hard-1 UI
+![](TwoPlayer.png)
