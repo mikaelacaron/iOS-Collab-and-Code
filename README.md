@@ -31,7 +31,7 @@ All starter/solution files can be [found here](https://github.com/mikaelacaron/i
 3. Write a function with a trailing closure
 
 ## iOS Challenges
-These challenges are to be completed <b>in order</b>. Each one builds off of each other.
+These challenges are to be completed <b>in order</b>. Each one builds off of each other. Here are some [tutorials](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZkH8RuznGMS0NZs0jWQQ5a)
 ## Easy
 1. Create the UI shown below. The top is a label, the middle is a label, and the bottom is a button.
 2. Create an array, called <span style="font-family: Courier New">rpsChoices</span>, with 3 strings in it. The elements of the array are the 3 emojis, rock, paper, and scissors. Create a variable called <span style="font-family: Courier New">randomNumber1</span> and set it equal to 0.
